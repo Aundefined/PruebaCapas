@@ -1,0 +1,9 @@
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\bin\Debug\netstandard2.0\Ejemplo.Model.deps.json
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\bin\Debug\netstandard2.0\Ejemplo.Model.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\bin\Debug\netstandard2.0\Ejemplo.Model.pdb
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\obj\Debug\netstandard2.0\Ejemplo.Model.csproj.CoreCompileInputs.cache
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\obj\Debug\netstandard2.0\Ejemplo.Model.AssemblyInfoInputs.cache
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\obj\Debug\netstandard2.0\Ejemplo.Model.AssemblyInfo.cs
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\obj\Debug\netstandard2.0\Ejemplo.Model.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\obj\Debug\netstandard2.0\Ejemplo.Model.pdb
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Model\obj\Debug\netstandard2.0\Ejemplo.Model.csprojAssemblyReference.cache

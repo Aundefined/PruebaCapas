@@ -1,0 +1,14 @@
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\bin\Debug\netstandard2.0\Ejemplo.Business.deps.json
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\bin\Debug\netstandard2.0\Ejemplo.Business.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\bin\Debug\netstandard2.0\Ejemplo.Business.pdb
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\bin\Debug\netstandard2.0\Ejemplo.Model.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\bin\Debug\netstandard2.0\Ejemplo.Reporsitory.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\bin\Debug\netstandard2.0\Ejemplo.Model.pdb
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\bin\Debug\netstandard2.0\Ejemplo.Reporsitory.pdb
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\obj\Debug\netstandard2.0\Ejemplo.Business.csprojAssemblyReference.cache
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\obj\Debug\netstandard2.0\Ejemplo.Business.csproj.CoreCompileInputs.cache
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\obj\Debug\netstandard2.0\Ejemplo.Business.AssemblyInfoInputs.cache
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\obj\Debug\netstandard2.0\Ejemplo.Business.AssemblyInfo.cs
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\obj\Debug\netstandard2.0\Ejemplo.Business.csproj.CopyComplete
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\obj\Debug\netstandard2.0\Ejemplo.Business.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Business\obj\Debug\netstandard2.0\Ejemplo.Business.pdb

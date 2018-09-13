@@ -1,0 +1,12 @@
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\bin\Debug\netstandard2.0\Ejemplo.Model.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\obj\Debug\netstandard2.0\Ejemplo.Reporsitory.csprojAssemblyReference.cache
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\obj\Debug\netstandard2.0\Ejemplo.Reporsitory.csproj.CoreCompileInputs.cache
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\obj\Debug\netstandard2.0\Ejemplo.Reporsitory.AssemblyInfoInputs.cache
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\obj\Debug\netstandard2.0\Ejemplo.Reporsitory.AssemblyInfo.cs
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\bin\Debug\netstandard2.0\Ejemplo.Reporsitory.deps.json
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\bin\Debug\netstandard2.0\Ejemplo.Reporsitory.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\bin\Debug\netstandard2.0\Ejemplo.Reporsitory.pdb
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\bin\Debug\netstandard2.0\Ejemplo.Model.pdb
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\obj\Debug\netstandard2.0\Ejemplo.Reporsitory.csproj.CopyComplete
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\obj\Debug\netstandard2.0\Ejemplo.Reporsitory.dll
+C:\proyectos\formacion-ideal\Ejemplo4\Ejemplo.Reporsitory\obj\Debug\netstandard2.0\Ejemplo.Reporsitory.pdb
